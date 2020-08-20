@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: fef3745ceaf33b641913637f11a7a719
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Adjust_Head_Down
+    100002: Adjust_Head_Min
+    100004: Adjust_Head_root
+    100006: Bip001
+    100008: Bip001  B skirt a
+    100010: Bip001  B skirt b
+    100012: Bip001  B skirt c
+    100014: Bip001  B skirt d
+    100016: Bip001  B skirt e
+    100018: Bip001  F skirt a
+    100020: Bip001  F skirt b
+    100022: Bip001  F skirt c
+    100024: Bip001  F skirt d
+    100026: Bip001  F skirt e
+    100028: Bip001 Head
+    100030: Bip001 L B skirt a
+    100032: Bip001 L B skirt b
+    100034: Bip001 L B skirt c
+    100036: Bip001 L B skirt d
+    100038: Bip001 L B skirt e
+    100040: Bip001 L Calf
+    100042: Bip001 L Clavicle
+    100044: Bip001 L F skirt a
+    100046: Bip001 L F skirt b
+    100048: Bip001 L F skirt c
+    100050: Bip001 L F skirt d
+    100052: Bip001 L F skirt e
+    100054: Bip001 L Finger0
+    100056: Bip001 L Finger01
+    100058: Bip001 L Finger02
+    100060: Bip001 L Finger1
+    100062: Bip001 L Finger11
+    100064: Bip001 L Finger12
+    100066: Bip001 L Finger2
+    100068: Bip001 L Finger21
+    100070: Bip001 L Finger22
+    100072: Bip001 L Finger3
+    100074: Bip001 L Finger31
+    100076: Bip001 L Finger32
+    100078: Bip001 L Finger4
+    100080: Bip001 L Finger41
+    100082: Bip001 L Finger42
+    100084: Bip001 L Foot
+    100086: Bip001 L Forearm
+    100088: Bip001 L ForearmTwisController
+    100090: Bip001 L Hand
+    100092: Bip001 L N skirt a
+    100094: Bip001 L N skirt b
+    100096: Bip001 L N skirt c
+    100098: Bip001 L N skirt d
+    100100: Bip001 L N skirt e
+    100102: Bip001 L poncho a
+    100104: Bip001 L poncho b
+    100106: Bip001 L poncho c
+    100108: Bip001 L poncho d
+    100110: Bip001 L poncho e
+    100112: Bip001 L poncho f
+    100114: Bip001 L poncho g
+    100116: Bip001 L Sleeve A01
+    100118: Bip001 L Sleeve A02
+    100120: Bip001 L Sleeve A03
+    100122: Bip001 L Sleeve A04
+    100124: Bip001 L Sleeve B01
+    100126: Bip001 L Sleeve B02
+    100128: Bip001 L Sleeve B03
+    100130: Bip001 L Sleeve C01
+    100132: Bip001 L Thigh
+    100134: Bip001 L Toe0
+    100136: Bip001 L UpperArm
+    100138: Bip001 L UpperArmController
+    100140: Bip001 M poncho a
+    100142: Bip001 M poncho b
+    100144: Bip001 M poncho c
+    100146: Bip001 M poncho d
+    100148: Bip001 M poncho e
+    100150: Bip001 M poncho f
+    100152: Bip001 M poncho g
+    100154: Bip001 Neck
+    100156: Bip001 Pelvis
+    100158: Bip001 R B skirt a
+    100160: Bip001 R B skirt b
+    100162: Bip001 R B skirt c
+    100164: Bip001 R B skirt d
+    100166: Bip001 R B skirt e
+    100168: Bip001 R Calf
+    100170: Bip001 R Clavicle
+    100172: Bip001 R F skirt a
+    100174: Bip001 R F skirt b
+    100176: Bip001 R F skirt c
+    100178: Bip001 R F skirt d
+    100180: Bip001 R F skirt e
+    100182: Bip001 R Finger0
+    100184: Bip001 R Finger01
+    100186: Bip001 R Finger02
+    100188: Bip001 R Finger1
+    100190: Bip001 R Finger11
+    100192: Bip001 R Finger12
+    100194: Bip001 R Finger2
+    100196: Bip001 R Finger21
+    100198: Bip001 R Finger22
+    100200: Bip001 R Finger3
+    100202: Bip001 R Finger31
+    100204: Bip001 R Finger32
+    100206: Bip001 R Finger4
+    100208: Bip001 R Finger41
+    100210: Bip001 R Finger42
+    100212: Bip001 R Foot
+    100214: Bip001 R Forearm
+    100216: Bip001 R ForearmTwisController
+    100218: Bip001 R Hand
+    100220: Bip001 R N skirt a
+    100222: Bip001 R N skirt b
+    100224: Bip001 R N skirt c
+    100226: Bip001 R N skirt d
+    100228: Bip001 R N skirt e
+    100230: Bip001 R poncho a
+    100232: Bip001 R poncho b
+    100234: Bip001 R poncho c
+    100236: Bip001 R poncho d
+    100238: Bip001 R poncho e
+    100240: Bip001 R poncho f
+    100242: Bip001 R poncho g
+    100244: Bip001 R Sleeve A01
+    100246: Bip001 R Sleeve A02
+    100248: Bip001 R Sleeve A03
+    100250: Bip001 R Sleeve A04
+    100252: Bip001 R Sleeve B01
+    100254: Bip001 R Sleeve B02
+    100256: Bip001 R Sleeve B03
+    100258: Bip001 R Sleeve C01
+    100260: Bip001 R Thigh
+    100262: Bip001 R Toe0
+    100264: Bip001 R UpperArm
+    100266: Bip001 R UpperArmController
+    100268: Bip001 Spine
+    100270: Bip001 Spine1
+    100272: Bip001 W B skirt a
+    100274: Bip001 W B skirt b
+    100276: Bip001 W B skirt c
+    100278: Bip001 W B skirt d
+    100280: Bip001 W B skirt e
+    100282: Bip001 W B skirt f
+    100284: Bip001 W B skirt g
+    100286: Bip001 W B skirt h
+    100288: Bip001 W B skirt i
+    100290: Bip001 W F skirt a
+    100292: Bip001 W F skirt b
+    100294: Bip001 W F skirt c
+    100296: Bip001 W F skirt d
+    100298: Bip001 W L skirt a
+    100300: Bip001 W L skirt b
+    100302: Bip001 W L skirt c
+    100304: Bip001 W L skirt d
+    100306: Bip001 W R skirt a
+    100308: Bip001 W R skirt b
+    100310: Bip001 W R skirt c
+    100312: Bip001 W R skirt d
+    100314: Bip_root
+    100316: Bone001
+    100318: Bone003
+    100320: Bone005
+    100322: Bone005_m
+    100324: L_Eyeball
+    100326: L_EyeBase
+    100328: LeftGluteusAdjust
+    100330: LeftGluteusControlle
+    100332: LeftOuterBreastAdjust
+    100334: LeftOuterBreastController
+    100336: R_Eyeball
+    100338: R_EyeBase
+    100340: RightGluteusAdjust
+    100342: RightGluteusController
+    100344: RightOuterBreastAdjust
+    100346: RightOuterBreastController
+    100348: v_armet
+    100350: v_back
+    100352: v_hit
+    100354: v_l_shoe
+    100356: v_l_weapon
+    100358: v_r_shoe
+    100360: v_r_weapon
+    100362: //RootNode
+    400000: Adjust_Head_Down
+    400002: Adjust_Head_Min
+    400004: Adjust_Head_root
+    400006: Bip001
+    400008: Bip001  B skirt a
+    400010: Bip001  B skirt b
+    400012: Bip001  B skirt c
+    400014: Bip001  B skirt d
+    400016: Bip001  B skirt e
+    400018: Bip001  F skirt a
+    400020: Bip001  F skirt b
+    400022: Bip001  F skirt c
+    400024: Bip001  F skirt d
+    400026: Bip001  F skirt e
+    400028: Bip001 Head
+    400030: Bip001 L B skirt a
+    400032: Bip001 L B skirt b
+    400034: Bip001 L B skirt c
+    400036: Bip001 L B skirt d
+    400038: Bip001 L B skirt e
+    400040: Bip001 L Calf
+    400042: Bip001 L Clavicle
+    400044: Bip001 L F skirt a
+    400046: Bip001 L F skirt b
+    400048: Bip001 L F skirt c
+    400050: Bip001 L F skirt d
+    400052: Bip001 L F skirt e
+    400054: Bip001 L Finger0
+    400056: Bip001 L Finger01
+    400058: Bip001 L Finger02
+    400060: Bip001 L Finger1
+    400062: Bip001 L Finger11
+    400064: Bip001 L Finger12
+    400066: Bip001 L Finger2
+    400068: Bip001 L Finger21
+    400070: Bip001 L Finger22
+    400072: Bip001 L Finger3
+    400074: Bip001 L Finger31
+    400076: Bip001 L Finger32
+    400078: Bip001 L Finger4
+    400080: Bip001 L Finger41
+    400082: Bip001 L Finger42
+    400084: Bip001 L Foot
+    400086: Bip001 L Forearm
+    400088: Bip001 L ForearmTwisController
+    400090: Bip001 L Hand
+    400092: Bip001 L N skirt a
+    400094: Bip001 L N skirt b
+    400096: Bip001 L N skirt c
+    400098: Bip001 L N skirt d
+    400100: Bip001 L N skirt e
+    400102: Bip001 L poncho a
+    400104: Bip001 L poncho b
+    400106: Bip001 L poncho c
+    400108: Bip001 L poncho d
+    400110: Bip001 L poncho e
+    400112: Bip001 L poncho f
+    400114: Bip001 L poncho g
+    400116: Bip001 L Sleeve A01
+    400118: Bip001 L Sleeve A02
+    400120: Bip001 L Sleeve A03
+    400122: Bip001 L Sleeve A04
+    400124: Bip001 L Sleeve B01
+    400126: Bip001 L Sleeve B02
+    400128: Bip001 L Sleeve B03
+    400130: Bip001 L Sleeve C01
+    400132: Bip001 L Thigh
+    400134: Bip001 L Toe0
+    400136: Bip001 L UpperArm
+    400138: Bip001 L UpperArmController
+    400140: Bip001 M poncho a
+    400142: Bip001 M poncho b
+    400144: Bip001 M poncho c
+    400146: Bip001 M poncho d
+    400148: Bip001 M poncho e
+    400150: Bip001 M poncho f
+    400152: Bip001 M poncho g
+    400154: Bip001 Neck
+    400156: Bip001 Pelvis
+    400158: Bip001 R B skirt a
+    400160: Bip001 R B skirt b
+    400162: Bip001 R B skirt c
+    400164: Bip001 R B skirt d
+    400166: Bip001 R B skirt e
+    400168: Bip001 R Calf
+    400170: Bip001 R Clavicle
+    400172: Bip001 R F skirt a
+    400174: Bip001 R F skirt b
+    400176: Bip001 R F skirt c
+    400178: Bip001 R F skirt d
+    400180: Bip001 R F skirt e
+    400182: Bip001 R Finger0
+    400184: Bip001 R Finger01
+    400186: Bip001 R Finger02
+    400188: Bip001 R Finger1
+    400190: Bip001 R Finger11
+    400192: Bip001 R Finger12
+    400194: Bip001 R Finger2
+    400196: Bip001 R Finger21
+    400198: Bip001 R Finger22
+    400200: Bip001 R Finger3
+    400202: Bip001 R Finger31
+    400204: Bip001 R Finger32
+    400206: Bip001 R Finger4
+    400208: Bip001 R Finger41
+    400210: Bip001 R Finger42
+    400212: Bip001 R Foot
+    400214: Bip001 R Forearm
+    400216: Bip001 R ForearmTwisController
+    400218: Bip001 R Hand
+    400220: Bip001 R N skirt a
+    400222: Bip001 R N skirt b
+    400224: Bip001 R N skirt c
+    400226: Bip001 R N skirt d
+    400228: Bip001 R N skirt e
+    400230: Bip001 R poncho a
+    400232: Bip001 R poncho b
+    400234: Bip001 R poncho c
+    400236: Bip001 R poncho d
+    400238: Bip001 R poncho e
+    400240: Bip001 R poncho f
+    400242: Bip001 R poncho g
+    400244: Bip001 R Sleeve A01
+    400246: Bip001 R Sleeve A02
+    400248: Bip001 R Sleeve A03
+    400250: Bip001 R Sleeve A04
+    400252: Bip001 R Sleeve B01
+    400254: Bip001 R Sleeve B02
+    400256: Bip001 R Sleeve B03
+    400258: Bip001 R Sleeve C01
+    400260: Bip001 R Thigh
+    400262: Bip001 R Toe0
+    400264: Bip001 R UpperArm
+    400266: Bip001 R UpperArmController
+    400268: Bip001 Spine
+    400270: Bip001 Spine1
+    400272: Bip001 W B skirt a
+    400274: Bip001 W B skirt b
+    400276: Bip001 W B skirt c
+    400278: Bip001 W B skirt d
+    400280: Bip001 W B skirt e
+    400282: Bip001 W B skirt f
+    400284: Bip001 W B skirt g
+    400286: Bip001 W B skirt h
+    400288: Bip001 W B skirt i
+    400290: Bip001 W F skirt a
+    400292: Bip001 W F skirt b
+    400294: Bip001 W F skirt c
+    400296: Bip001 W F skirt d
+    400298: Bip001 W L skirt a
+    400300: Bip001 W L skirt b
+    400302: Bip001 W L skirt c
+    400304: Bip001 W L skirt d
+    400306: Bip001 W R skirt a
+    400308: Bip001 W R skirt b
+    400310: Bip001 W R skirt c
+    400312: Bip001 W R skirt d
+    400314: Bip_root
+    400316: Bone001
+    400318: Bone003
+    400320: Bone005
+    400322: Bone005_m
+    400324: L_Eyeball
+    400326: L_EyeBase
+    400328: LeftGluteusAdjust
+    400330: LeftGluteusControlle
+    400332: LeftOuterBreastAdjust
+    400334: LeftOuterBreastController
+    400336: R_Eyeball
+    400338: R_EyeBase
+    400340: RightGluteusAdjust
+    400342: RightGluteusController
+    400344: RightOuterBreastAdjust
+    400346: RightOuterBreastController
+    400348: v_armet
+    400350: v_back
+    400352: v_hit
+    400354: v_l_shoe
+    400356: v_l_weapon
+    400358: v_r_shoe
+    400360: v_r_weapon
+    400362: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

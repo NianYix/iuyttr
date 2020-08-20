@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: cb769ada2817dcc48a50acbd396d24aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Adjust_Head_Down
+    100002: Adjust_Head_Low
+    100004: Adjust_Head_Min
+    100006: Adjust_Head_root
+    100008: Adjust_Head_Up
+    100010: Afterbrain
+    100012: Bip001
+    100014: Bip001  B skirt a
+    100016: Bip001  B skirt b
+    100018: Bip001  B skirt c
+    100020: Bip001  B skirt d
+    100022: Bip001  B skirt e
+    100024: Bip001  F skirt a
+    100026: Bip001  F skirt b
+    100028: Bip001  F skirt c
+    100030: Bip001  F skirt d
+    100032: Bip001  F skirt e
+    100034: Bip001 Footsteps
+    100036: Bip001 Head
+    100038: Bip001 HeadNub
+    100040: Bip001 L B skirt a
+    100042: Bip001 L B skirt b
+    100044: Bip001 L B skirt c
+    100046: Bip001 L B skirt d
+    100048: Bip001 L B skirt e
+    100050: Bip001 L Calf
+    100052: Bip001 L Clavicle
+    100054: Bip001 L F skirt a
+    100056: Bip001 L F skirt b
+    100058: Bip001 L F skirt c
+    100060: Bip001 L F skirt d
+    100062: Bip001 L F skirt e
+    100064: Bip001 L Finger0
+    100066: Bip001 L Finger01
+    100068: Bip001 L Finger02
+    100070: Bip001 L Finger0Nub
+    100072: Bip001 L Finger1
+    100074: Bip001 L Finger11
+    100076: Bip001 L Finger12
+    100078: Bip001 L Finger1Nub
+    100080: Bip001 L Finger2
+    100082: Bip001 L Finger21
+    100084: Bip001 L Finger22
+    100086: Bip001 L Finger2Nub
+    100088: Bip001 L Finger3
+    100090: Bip001 L Finger31
+    100092: Bip001 L Finger32
+    100094: Bip001 L Finger3Nub
+    100096: Bip001 L Finger4
+    100098: Bip001 L Finger41
+    100100: Bip001 L Finger42
+    100102: Bip001 L Finger4Nub
+    100104: Bip001 L Foot
+    100106: Bip001 L Forearm
+    100108: Bip001 L ForearmTwisController
+    100110: Bip001 L Hand
+    100112: Bip001 L N skirt a
+    100114: Bip001 L N skirt b
+    100116: Bip001 L N skirt c
+    100118: Bip001 L N skirt d
+    100120: Bip001 L N skirt e
+    100122: Bip001 L poncho a
+    100124: Bip001 L poncho b
+    100126: Bip001 L poncho c
+    100128: Bip001 L poncho d
+    100130: Bip001 L poncho e
+    100132: Bip001 L poncho f
+    100134: Bip001 L poncho g
+    100136: Bip001 L Sleeve A01
+    100138: Bip001 L Sleeve A02
+    100140: Bip001 L Sleeve A03
+    100142: Bip001 L Sleeve A04
+    100144: Bip001 L Sleeve B01
+    100146: Bip001 L Sleeve B02
+    100148: Bip001 L Sleeve B03
+    100150: Bip001 L Sleeve C01
+    100152: Bip001 L Thigh
+    100154: Bip001 L Toe0
+    100156: Bip001 L Toe0Nub
+    100158: Bip001 L UpperArm
+    100160: Bip001 L UpperArmController
+    100162: Bip001 M poncho a
+    100164: Bip001 M poncho b
+    100166: Bip001 M poncho c
+    100168: Bip001 M poncho d
+    100170: Bip001 M poncho e
+    100172: Bip001 M poncho f
+    100174: Bip001 M poncho g
+    100176: Bip001 Neck
+    100178: Bip001 Pelvis
+    100180: Bip001 R B skirt a
+    100182: Bip001 R B skirt b
+    100184: Bip001 R B skirt c
+    100186: Bip001 R B skirt d
+    100188: Bip001 R B skirt e
+    100190: Bip001 R Calf
+    100192: Bip001 R Clavicle
+    100194: Bip001 R F skirt a
+    100196: Bip001 R F skirt b
+    100198: Bip001 R F skirt c
+    100200: Bip001 R F skirt d
+    100202: Bip001 R F skirt e
+    100204: Bip001 R Finger0
+    100206: Bip001 R Finger01
+    100208: Bip001 R Finger02
+    100210: Bip001 R Finger0Nub
+    100212: Bip001 R Finger1
+    100214: Bip001 R Finger11
+    100216: Bip001 R Finger12
+    100218: Bip001 R Finger1Nub
+    100220: Bip001 R Finger2
+    100222: Bip001 R Finger21
+    100224: Bip001 R Finger22
+    100226: Bip001 R Finger2Nub
+    100228: Bip001 R Finger3
+    100230: Bip001 R Finger31
+    100232: Bip001 R Finger32
+    100234: Bip001 R Finger3Nub
+    100236: Bip001 R Finger4
+    100238: Bip001 R Finger41
+    100240: Bip001 R Finger42
+    100242: Bip001 R Finger4Nub
+    100244: Bip001 R Foot
+    100246: Bip001 R Forearm
+    100248: Bip001 R ForearmTwisController
+    100250: Bip001 R Hand
+    100252: Bip001 R N skirt a
+    100254: Bip001 R N skirt b
+    100256: Bip001 R N skirt c
+    100258: Bip001 R N skirt d
+    100260: Bip001 R N skirt e
+    100262: Bip001 R poncho a
+    100264: Bip001 R poncho b
+    100266: Bip001 R poncho c
+    100268: Bip001 R poncho d
+    100270: Bip001 R poncho e
+    100272: Bip001 R poncho f
+    100274: Bip001 R poncho g
+    100276: Bip001 R Sleeve A01
+    100278: Bip001 R Sleeve A02
+    100280: Bip001 R Sleeve A03
+    100282: Bip001 R Sleeve A04
+    100284: Bip001 R Sleeve B01
+    100286: Bip001 R Sleeve B02
+    100288: Bip001 R Sleeve B03
+    100290: Bip001 R Sleeve C01
+    100292: Bip001 R Thigh
+    100294: Bip001 R Toe0
+    100296: Bip001 R Toe0Nub
+    100298: Bip001 R UpperArm
+    100300: Bip001 R UpperArmController
+    100302: Bip001 Spine
+    100304: Bip001 Spine1
+    100306: Bip001 W B skirt a
+    100308: Bip001 W B skirt b
+    100310: Bip001 W B skirt c
+    100312: Bip001 W B skirt d
+    100314: Bip001 W B skirt e
+    100316: Bip001 W B skirt f
+    100318: Bip001 W B skirt g
+    100320: Bip001 W B skirt h
+    100322: Bip001 W B skirt i
+    100324: Bip001 W F skirt a
+    100326: Bip001 W F skirt b
+    100328: Bip001 W F skirt c
+    100330: Bip001 W F skirt d
+    100332: Bip001 W L skirt a
+    100334: Bip001 W L skirt b
+    100336: Bip001 W L skirt c
+    100338: Bip001 W L skirt d
+    100340: Bip001 W R skirt a
+    100342: Bip001 W R skirt b
+    100344: Bip001 W R skirt c
+    100346: Bip001 W R skirt d
+    100348: Bip_root
+    100350: Bone001
+    100352: Bone002
+    100354: Bone003
+    100356: Bone003(mirrored)
+    100358: Bone004
+    100360: Bone004(mirrored)
+    100362: Bone005
+    100364: Bone005(mirrored)
+    100366: bone_eyebrow_root
+    100368: bone_hair_root
+    100370: eye156
+    100372: Forehead
+    100374: hand_l
+    100376: hand_r
+    100378: head
+    100380: Jaw
+    100382: Jaw_L
+    100384: Jaw_R
+    100386: L_AppleZone
+    100388: L_Cheek
+    100390: L_cheekbone
+    100392: L_EarBase
+    100394: L_EarLow
+    100396: L_EarMid
+    100398: L_EarTragus
+    100400: L_EarUp
+    100402: L_Eye_InCorner
+    100404: L_Eye_OutCorner
+    100406: L_Eyeball
+    100408: L_EyeBase
+    100410: L_Eyebrow
+    100412: L_Eyebrow_Between
+    100414: L_Eyebrow_Tip
+    100416: L_Face
+    100418: L_FaceIn
+    100420: LeftGluteusAdjust
+    100422: LeftGluteusControlle
+    100424: LeftOuterBreastAdjust
+    100426: LeftOuterBreastController
+    100428: Lips_Down
+    100430: Lips_L003
+    100432: Lips_L01
+    100434: Lips_L02
+    100436: Lips_R003
+    100438: Lips_R01
+    100440: Lips_R02
+    100442: Lips_Up
+    100444: Man_Bodyup_fsxxz_13_001
+    100446: Man_Bottoms_DJ_13_001
+    100448: Man_Eyebrow_wh_13_001
+    100450: //RootNode
+    100452: Man_Hair_wh_13_001
+    100454: Man_Shoes_DJ_13_001
+    100456: MouthBase
+    100458: Nose_Bridge
+    100460: Nose_LWing
+    100462: Nose_RWing
+    100464: Nose_Tip
+    100466: Nose_Up
+    100468: NoseBase
+    100470: R_AppleZone
+    100472: R_Cheek
+    100474: R_cheekbone
+    100476: R_EarBase
+    100478: R_EarLow
+    100480: R_EarMid
+    100482: R_EarTragus
+    100484: R_EarUp
+    100486: R_Eye_InCorner
+    100488: R_Eye_OutCorner
+    100490: R_Eyeball
+    100492: R_EyeBase
+    100494: R_Eyebrow
+    100496: R_Eyebrow_Between
+    100498: R_Eyebrow_Tip
+    100500: R_Face
+    100502: R_FaceIn
+    100504: RightGluteusAdjust
+    100506: RightGluteusController
+    100508: RightOuterBreastAdjust
+    100510: RightOuterBreastController
+    100512: Tongue01
+    100514: Tongue02
+    100516: Tongue03
+    100518: ToothDown
+    100520: ToothUp
+    100522: v_armet
+    100524: v_back
+    100526: v_hit
+    100528: v_l_shoe
+    100530: v_l_weapon
+    100532: v_r_shoe
+    100534: v_r_weapon
+    400000: Adjust_Head_Down
+    400002: Adjust_Head_Low
+    400004: Adjust_Head_Min
+    400006: Adjust_Head_root
+    400008: Adjust_Head_Up
+    400010: Afterbrain
+    400012: Bip001
+    400014: Bip001  B skirt a
+    400016: Bip001  B skirt b
+    400018: Bip001  B skirt c
+    400020: Bip001  B skirt d
+    400022: Bip001  B skirt e
+    400024: Bip001  F skirt a
+    400026: Bip001  F skirt b
+    400028: Bip001  F skirt c
+    400030: Bip001  F skirt d
+    400032: Bip001  F skirt e
+    400034: Bip001 Footsteps
+    400036: Bip001 Head
+    400038: Bip001 HeadNub
+    400040: Bip001 L B skirt a
+    400042: Bip001 L B skirt b
+    400044: Bip001 L B skirt c
+    400046: Bip001 L B skirt d
+    400048: Bip001 L B skirt e
+    400050: Bip001 L Calf
+    400052: Bip001 L Clavicle
+    400054: Bip001 L F skirt a
+    400056: Bip001 L F skirt b
+    400058: Bip001 L F skirt c
+    400060: Bip001 L F skirt d
+    400062: Bip001 L F skirt e
+    400064: Bip001 L Finger0
+    400066: Bip001 L Finger01
+    400068: Bip001 L Finger02
+    400070: Bip001 L Finger0Nub
+    400072: Bip001 L Finger1
+    400074: Bip001 L Finger11
+    400076: Bip001 L Finger12
+    400078: Bip001 L Finger1Nub
+    400080: Bip001 L Finger2
+    400082: Bip001 L Finger21
+    400084: Bip001 L Finger22
+    400086: Bip001 L Finger2Nub
+    400088: Bip001 L Finger3
+    400090: Bip001 L Finger31
+    400092: Bip001 L Finger32
+    400094: Bip001 L Finger3Nub
+    400096: Bip001 L Finger4
+    400098: Bip001 L Finger41
+    400100: Bip001 L Finger42
+    400102: Bip001 L Finger4Nub
+    400104: Bip001 L Foot
+    400106: Bip001 L Forearm
+    400108: Bip001 L ForearmTwisController
+    400110: Bip001 L Hand
+    400112: Bip001 L N skirt a
+    400114: Bip001 L N skirt b
+    400116: Bip001 L N skirt c
+    400118: Bip001 L N skirt d
+    400120: Bip001 L N skirt e
+    400122: Bip001 L poncho a
+    400124: Bip001 L poncho b
+    400126: Bip001 L poncho c
+    400128: Bip001 L poncho d
+    400130: Bip001 L poncho e
+    400132: Bip001 L poncho f
+    400134: Bip001 L poncho g
+    400136: Bip001 L Sleeve A01
+    400138: Bip001 L Sleeve A02
+    400140: Bip001 L Sleeve A03
+    400142: Bip001 L Sleeve A04
+    400144: Bip001 L Sleeve B01
+    400146: Bip001 L Sleeve B02
+    400148: Bip001 L Sleeve B03
+    400150: Bip001 L Sleeve C01
+    400152: Bip001 L Thigh
+    400154: Bip001 L Toe0
+    400156: Bip001 L Toe0Nub
+    400158: Bip001 L UpperArm
+    400160: Bip001 L UpperArmController
+    400162: Bip001 M poncho a
+    400164: Bip001 M poncho b
+    400166: Bip001 M poncho c
+    400168: Bip001 M poncho d
+    400170: Bip001 M poncho e
+    400172: Bip001 M poncho f
+    400174: Bip001 M poncho g
+    400176: Bip001 Neck
+    400178: Bip001 Pelvis
+    400180: Bip001 R B skirt a
+    400182: Bip001 R B skirt b
+    400184: Bip001 R B skirt c
+    400186: Bip001 R B skirt d
+    400188: Bip001 R B skirt e
+    400190: Bip001 R Calf
+    400192: Bip001 R Clavicle
+    400194: Bip001 R F skirt a
+    400196: Bip001 R F skirt b
+    400198: Bip001 R F skirt c
+    400200: Bip001 R F skirt d
+    400202: Bip001 R F skirt e
+    400204: Bip001 R Finger0
+    400206: Bip001 R Finger01
+    400208: Bip001 R Finger02
+    400210: Bip001 R Finger0Nub
+    400212: Bip001 R Finger1
+    400214: Bip001 R Finger11
+    400216: Bip001 R Finger12
+    400218: Bip001 R Finger1Nub
+    400220: Bip001 R Finger2
+    400222: Bip001 R Finger21
+    400224: Bip001 R Finger22
+    400226: Bip001 R Finger2Nub
+    400228: Bip001 R Finger3
+    400230: Bip001 R Finger31
+    400232: Bip001 R Finger32
+    400234: Bip001 R Finger3Nub
+    400236: Bip001 R Finger4
+    400238: Bip001 R Finger41
+    400240: Bip001 R Finger42
+    400242: Bip001 R Finger4Nub
+    400244: Bip001 R Foot
+    400246: Bip001 R Forearm
+    400248: Bip001 R ForearmTwisController
+    400250: Bip001 R Hand
+    400252: Bip001 R N skirt a
+    400254: Bip001 R N skirt b
+    400256: Bip001 R N skirt c
+    400258: Bip001 R N skirt d
+    400260: Bip001 R N skirt e
+    400262: Bip001 R poncho a
+    400264: Bip001 R poncho b
+    400266: Bip001 R poncho c
+    400268: Bip001 R poncho d
+    400270: Bip001 R poncho e
+    400272: Bip001 R poncho f
+    400274: Bip001 R poncho g
+    400276: Bip001 R Sleeve A01
+    400278: Bip001 R Sleeve A02
+    400280: Bip001 R Sleeve A03
+    400282: Bip001 R Sleeve A04
+    400284: Bip001 R Sleeve B01
+    400286: Bip001 R Sleeve B02
+    400288: Bip001 R Sleeve B03
+    400290: Bip001 R Sleeve C01
+    400292: Bip001 R Thigh
+    400294: Bip001 R Toe0
+    400296: Bip001 R Toe0Nub
+    400298: Bip001 R UpperArm
+    400300: Bip001 R UpperArmController
+    400302: Bip001 Spine
+    400304: Bip001 Spine1
+    400306: Bip001 W B skirt a
+    400308: Bip001 W B skirt b
+    400310: Bip001 W B skirt c
+    400312: Bip001 W B skirt d
+    400314: Bip001 W B skirt e
+    400316: Bip001 W B skirt f
+    400318: Bip001 W B skirt g
+    400320: Bip001 W B skirt h
+    400322: Bip001 W B skirt i
+    400324: Bip001 W F skirt a
+    400326: Bip001 W F skirt b
+    400328: Bip001 W F skirt c
+    400330: Bip001 W F skirt d
+    400332: Bip001 W L skirt a
+    400334: Bip001 W L skirt b
+    400336: Bip001 W L skirt c
+    400338: Bip001 W L skirt d
+    400340: Bip001 W R skirt a
+    400342: Bip001 W R skirt b
+    400344: Bip001 W R skirt c
+    400346: Bip001 W R skirt d
+    400348: Bip_root
+    400350: Bone001
+    400352: Bone002
+    400354: Bone003
+    400356: Bone003(mirrored)
+    400358: Bone004
+    400360: Bone004(mirrored)
+    400362: Bone005
+    400364: Bone005(mirrored)
+    400366: bone_eyebrow_root
+    400368: bone_hair_root
+    400370: eye156
+    400372: Forehead
+    400374: hand_l
+    400376: hand_r
+    400378: head
+    400380: Jaw
+    400382: Jaw_L
+    400384: Jaw_R
+    400386: L_AppleZone
+    400388: L_Cheek
+    400390: L_cheekbone
+    400392: L_EarBase
+    400394: L_EarLow
+    400396: L_EarMid
+    400398: L_EarTragus
+    400400: L_EarUp
+    400402: L_Eye_InCorner
+    400404: L_Eye_OutCorner
+    400406: L_Eyeball
+    400408: L_EyeBase
+    400410: L_Eyebrow
+    400412: L_Eyebrow_Between
+    400414: L_Eyebrow_Tip
+    400416: L_Face
+    400418: L_FaceIn
+    400420: LeftGluteusAdjust
+    400422: LeftGluteusControlle
+    400424: LeftOuterBreastAdjust
+    400426: LeftOuterBreastController
+    400428: Lips_Down
+    400430: Lips_L003
+    400432: Lips_L01
+    400434: Lips_L02
+    400436: Lips_R003
+    400438: Lips_R01
+    400440: Lips_R02
+    400442: Lips_Up
+    400444: Man_Bodyup_fsxxz_13_001
+    400446: Man_Bottoms_DJ_13_001
+    400448: Man_Eyebrow_wh_13_001
+    400450: //RootNode
+    400452: Man_Hair_wh_13_001
+    400454: Man_Shoes_DJ_13_001
+    400456: MouthBase
+    400458: Nose_Bridge
+    400460: Nose_LWing
+    400462: Nose_RWing
+    400464: Nose_Tip
+    400466: Nose_Up
+    400468: NoseBase
+    400470: R_AppleZone
+    400472: R_Cheek
+    400474: R_cheekbone
+    400476: R_EarBase
+    400478: R_EarLow
+    400480: R_EarMid
+    400482: R_EarTragus
+    400484: R_EarUp
+    400486: R_Eye_InCorner
+    400488: R_Eye_OutCorner
+    400490: R_Eyeball
+    400492: R_EyeBase
+    400494: R_Eyebrow
+    400496: R_Eyebrow_Between
+    400498: R_Eyebrow_Tip
+    400500: R_Face
+    400502: R_FaceIn
+    400504: RightGluteusAdjust
+    400506: RightGluteusController
+    400508: RightOuterBreastAdjust
+    400510: RightOuterBreastController
+    400512: Tongue01
+    400514: Tongue02
+    400516: Tongue03
+    400518: ToothDown
+    400520: ToothUp
+    400522: v_armet
+    400524: v_back
+    400526: v_hit
+    400528: v_l_shoe
+    400530: v_l_weapon
+    400532: v_r_shoe
+    400534: v_r_weapon
+    2100000: 'Material #67222425'
+    2100002: 'Material #67222236'
+    2100004: 'Material #67222423'
+    2100006: 'Material #67222421'
+    2100008: 'Material #67222235'
+    2100010: 'Material #6758'
+    2100012: 'Material #67222427'
+    2100014: 'Material #6720'
+    2100016: 'Material #6843'
+    4300000: head
+    4300002: Man_Eyebrow_wh_13_001
+    4300004: Man_Hair_wh_13_001
+    4300006: eye156
+    4300008: hand_l
+    4300010: hand_r
+    4300012: Man_Shoes_DJ_13_001
+    4300014: Man_Bottoms_DJ_13_001
+    4300016: Man_Bodyup_fsxxz_13_001
+    9500000: //RootNode
+    13700000: eye156
+    13700002: hand_l
+    13700004: hand_r
+    13700006: head
+    13700008: Man_Bodyup_fsxxz_13_001
+    13700010: Man_Bottoms_DJ_13_001
+    13700012: Man_Eyebrow_wh_13_001
+    13700014: Man_Hair_wh_13_001
+    13700016: Man_Shoes_DJ_13_001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

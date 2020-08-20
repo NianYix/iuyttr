@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: T_Smoke_33_alpha
+  m_Shader: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: ADDTIVEFOG _ALPHABLEND_ON _LIGHTTOGGLE_ON _MASKTOGGLE_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - ALWAYS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 431b31fbb343d744d98d7e2391585eb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 431b31fbb343d744d98d7e2391585eb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorIntensity: 2
+    - _Cull: 2
+    - _Cutoff: 0.01
+    - _Cutout: 0
+    - _DistortionIntensity: 0.1
+    - _DstBlend: 1
+    - _GlowAnimationSpeed: 1
+    - _GlowAnimationToggle: 5
+    - _GlowIntensity: 1
+    - _GlowOffset: 0.0005
+    - _GlowRange: 1
+    - _InvFade: 1
+    - _LightToggle: 1
+    - _MainUVAnimation: 0
+    - _MainUVSpeedX: 1
+    - _MainUVSpeedY: 1
+    - _MaskToggle: 1
+    - _Mode: 0
+    - _RenderQueue: 3000
+    - _Soft: 1
+    - _SoftToggle: 0
+    - _SrcBlend: 5
+    - _ZTest: 4
+    - _ZWrite: 0
+    m_Colors:
+    - _GlowInColor: {r: 0, g: Infinity, b: 0, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
